@@ -1,0 +1,113 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    /* overflow: hidden; */
+}
+
+body{
+    background-color: #14001E;
+    color: white;
+    /* overflow: hidden; */
+}
+
+.wrapper{
+    display:flex;
+    position:relative;
+    position: absolute;
+    width: 80px;
+    height: 100%;
+    background: #553066;
+}
+
+.sidebar{
+    background-color: #2B1038 !important;
+    height: 100vh;
+    position: absolute;
+    width: 80px;
+    background: #553066;
+}
+
+.fa-user{
+    color: #FF9B06;
+    size: 10px;
+    padding-left:30px;
+    padding-top: 30px;
+}
+.fa-plus{
+    color:#0085FF;
+    padding-left:30px;
+    padding-top: 30px;
+}
+.fa-robot{
+    color:#EEBA00;
+    padding-left:25px;
+    padding-top: 30px;
+}
+
+.fa-2x {
+    cursor: pointer !important;
+}
+
+.fa-sign-out-alt {
+    color: red;
+    margin: 1.5em 1em -1em 0;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.headZap {    
+    display: flex;
+    width: 100vw;
+    justify-content: space-between;
+}
+
+.main_content .header{
+    padding-left: 120px;
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: x-large;
+    font-family: 'Montserrat', sans-serif;
+}
+.user_id{
+    font-size: 1rem;
+    font-weight: 200;
+}
+
+.containerApp {
+    background-color: #14001E;
+    display: grid;
+    grid-template-columns: 850px 500px;
+    margin-left: 120px;
+    padding: 1em;
+    grid-gap: 2em;
+    padding-left: 0px;
+    height: 90%;
+    width: 100%;
+    
+}
+
+.contapp {
+    background-color: #2B1038;
+    
+}
+
+.contapp {
+    text-align: left;
+    padding: 1.5em 1em 0.5em;
+    
+}
+
+.contapp p{
+    padding-left: 1em;
+    
+}
+
+
+
+
+
+

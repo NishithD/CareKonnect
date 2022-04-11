@@ -1,0 +1,46 @@
+.appointmentCard{
+    height: 200px;
+    width: 160px;
+    background-color: #553066;
+    margin-top: 15px;
+    border-radius: 10px;
+    color:white;
+    padding:10px;
+    text-align: center ;
+    font-size: 65%;
+}
+
+.but{
+    color: white;
+    background-color: #b583ce !important;
+    padding: 1px;
+    padding-top: 3.5px;
+    border-radius:5px;
+    cursor: pointer;
+    text-align: center;
+    width:100px;
+    height: 30px;
+    margin: auto;
+    margin-top: 5px;
+}
+
+.but:hover{
+    background-color: #1e0a27 !important;
+}
+
+.name{
+    margin-top:2%;
+}
+
+.ill{
+    font-weight: lighter;
+    margin: auto;
+}
+
+.date_time{
+    margin: auto;
+}
+
+.apptID{
+    margin-top:8% ;
+}

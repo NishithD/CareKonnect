@@ -1,0 +1,39 @@
+.illness{
+    width:80%;
+    background-color: #553066;
+    margin-top: 5%;
+    margin-left: 5%;
+    text-align: left;
+    padding: 7px;
+    border-radius: 3px;
+}
+
+.buttons{
+    display: flex;
+}
+
+.approve{
+    width:25%;
+    background-color: #4E9B29;
+    padding: 5px;
+    text-align: center;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 22%;
+    margin-left: 5%;
+}
+
+.reject{
+    width:25%;
+    background-color: #9B2937;
+    padding: 5px;
+    text-align: center;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 22%;
+    margin-left: 5%;
+}
+
+.textDetail{
+    margin-left: 5%;
+}

@@ -37,17 +37,15 @@ return `
          border: 1px solid black;
          padding:10px;
       }
-
-            
-        </style>
+      </style>
       <body>
          <div class="main">
           <ul>
             <li>
               <div>
-              <img src="C:\\Users\\Yashi S\\HealthMainz\\client\\src\\components\\patient\\Auth\\HealthMainz\\Public\\logo.png" />
-                <h1>HealthMainz</h1>
-                <p>healthmainz@gmail.com</p>
+              <img src="/home/nishith/Desktop/CareKonnect/client/src/components/patient/Auth/HealthMainz/Public" />
+                <h1>CareKonnect</h1>
+                <p>carekonnect@gmail.com</p>
               </div>
             </li>
             <li class="doctor">

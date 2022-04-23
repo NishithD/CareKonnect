@@ -3,7 +3,7 @@ import { AUTH } from '../../../constants/actionTypes';
 import {useDispatch} from 'react-redux'
 import { useHistory } from 'react-router-dom';
 import "./AdminLogin.css";
-import logo from "/home/nishith/Desktop/CareKonnect/client/src/components/doctor/Auth/Auth-public/logo.png";
+import logo from "./Auth-public/logo.png";
 import admlogo from "./Auth-public/admlogo.png";
 import Carousel from 'react-bootstrap/Carousel';
 import user_booking from "./Auth-public/User booking.png";

@@ -99,7 +99,7 @@ return `
 //    <div class="report">
 //    <div>
 //    <h1>HealthMainz Report</h1>
-//    <img src="C:\Users\Yashi S\HealthMainz\client\src\components\patient\Auth\HealthMainz\Public\logo.png" />
+//    <img src="" />
 //    </div>
       
 //       <br></br>

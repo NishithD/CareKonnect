@@ -28,19 +28,19 @@ It can be used by the patients/common people to-
     <td>
       <b>NodeJS</b>
 		<p align="center">
-			<img src = "https://www.iconninja.com/files/737/358/547/code-nodejs-logo-development-icon.png" width="96" height="59" alt="Your Name Here (Insert Your Image Link In Src">
+			<img src = "https://www.iconninja.com/files/737/358/547/code-nodejs-logo-development-icon.png" width="96" height="96" alt="Your Name Here (Insert Your Image Link In Src">
 		</p>
 		</td>
 		<td>
       <b>MongoDB</b>
 		<p align="center">
-			<img src = "https://www.iconninja.com/files/707/239/680/programming-logo-mongodb-development-code-icon.png" width="96" height="27" alt="Your Name Here (Insert Your Image Link In Src">
+			<img src = "https://www.iconninja.com/files/707/239/680/programming-logo-mongodb-development-code-icon.png" width="96" height="96" alt="Your Name Here (Insert Your Image Link In Src">
 		</p>
 		</td>
 		<td>
       <b>FlowXO</b>
 		<p align="center">
-			<img src = "https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/183615/Flow_XO_Logo_-_Colour.png"width="96" height="25" alt="Your Name Here (Insert Your Image Link In Src">
+			<img src = "https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/183615/Flow_XO_Logo_-_Colour.png"width="96" height="96" alt="Your Name Here (Insert Your Image Link In Src">
 		</td>
 	</tr>
 </table>

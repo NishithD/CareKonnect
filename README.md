@@ -24,17 +24,11 @@ It can be used by the patients/common people to-
 			<img src = "https://www.iconninja.com/files/332/243/605/react-js-react-logo-js-icon.png" width="96" height="96" alt="Your Name Here (Insert Your Image Link In Src">
 		</p>
 		</td>
-    <td>
+		<td>
 		<p align="center">
 			<img src = "https://www.iconninja.com/files/737/358/547/code-nodejs-logo-development-icon.png" width="96" height="59" alt="Your Name Here (Insert Your Image Link In Src">
 		</p>
 		</td>
-		<td>
-		<p align="center">
-			<img src = "https://miro.medium.com/max/800/1*9AbbVli10NreTXCpiVYEOQ.png" width="96" height="27" alt="Your Name Here (Insert Your Image Link In Src">
-		</p>
-		</td>
-		<td>
 		<td>
 		<p align="center">
 			<img src = "https://www.iconninja.com/files/707/239/680/programming-logo-mongodb-development-code-icon.png" width="96" height="27" alt="Your Name Here (Insert Your Image Link In Src">

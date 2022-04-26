@@ -170,7 +170,7 @@ app.post("/doc/reg",(req,res)=>{
                                 port: 587,
                                 secure: false, 
                                 auth: {
-                                    user: 'healthmainz@gmail.com', 
+                                    user: 'nishithdasari100@gmail.com', 
                                     pass: process.env.mail_pass  
                                 },
                                 tls:{
@@ -179,7 +179,7 @@ app.post("/doc/reg",(req,res)=>{
                               });
                             
                               let mailOptions = {
-                                  from: '"HealthMainz" <healthmainz@gmail.com>', 
+                                  from: '"CareKonnect" <nishithdasari100@gmail.com>', 
                                   to: doctor.Doc_email, 
                                   subject: 'Account Created', 
                                   text: 'Hello world?', 
@@ -363,7 +363,7 @@ app.post('/confirmAppt',(req,res)=>{
             port: 587,
             secure: false, 
             auth: {
-                user: 'healthmainz@gmail.com', 
+                user: 'nishithdasari100@gmail.com', 
                 pass: process.env.mail_pass  
             },
             tls:{
@@ -372,7 +372,7 @@ app.post('/confirmAppt',(req,res)=>{
           });
         
           let mailOptions = {
-              from: '"HealthMainz" <healthmainz@gmail.com>', 
+              from: '"CareKonnect" <nishithdasari100@gmail.com>', 
               to: mail, 
               subject: 'Appointment Confirmed!', 
               text: 'Hello world?', 
@@ -548,7 +548,7 @@ app.post("/createReport",async (req,res)=>{
                     port: 587,
                     secure: false, 
                     auth: {
-                        user: 'healthmainz@gmail.com', 
+                        user: 'nishithdasari100@gmail.com', 
                         pass: process.env.mail_pass  
                     },
                     tls:{
@@ -557,7 +557,7 @@ app.post("/createReport",async (req,res)=>{
                 });
                 
                 let mailOptions = {
-                    from: '"HealthMainz" <healthmainz@gmail.com>', 
+                    from: '"CareKonnect" <nishithdasari100@gmail.com>', 
                     to: mail, 
                     subject: 'Appointment Report', 
                     text: 'Hello world?', 

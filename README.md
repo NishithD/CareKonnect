@@ -31,6 +31,12 @@ It can be used by the patients/common people to-
 		</td>
 		<td>
 		<p align="center">
+			<img src = "https://miro.medium.com/max/800/1*9AbbVli10NreTXCpiVYEOQ.png" width="96" height="27" alt="Your Name Here (Insert Your Image Link In Src">
+		</p>
+		</td>
+		<td>
+		<td>
+		<p align="center">
 			<img src = "https://www.iconninja.com/files/707/239/680/programming-logo-mongodb-development-code-icon.png" width="96" height="27" alt="Your Name Here (Insert Your Image Link In Src">
 		</p>
 		</td>

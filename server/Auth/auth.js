@@ -577,14 +577,5 @@ app.post("/createReport",async (req,res)=>{
                 });
         }
       });
-   
-    
-  
-    
 })
-
 module.exports=app;
-
-
-
-

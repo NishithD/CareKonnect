@@ -12,8 +12,38 @@ These problems are really common during some acute outbreaks in some parts of th
 We aim to develop a Realtime Healthcare Web-Application for hospitals to tackle the above obstacles.
 It can be used by the patients/common people to-  
 - Ask for some first-aid or get information about the disease from the chatbot 
-- Connect and have one to one conversation (chat) with the doctors or specialists  
+- Connect and have one to one conversation (chat) with certified doctors 
 - Apart from this, the application would also consist of statistics about the ongoing pandemics around the world as well as information about adequate medical supply outlets available across different parts of the country
+
+## Pre-requisites
+
+<table>
+	<tr align="center">
+		<td>
+      <b>ReactJS</b>
+		<p align="center">
+			<img src = "https://www.iconninja.com/files/332/243/605/react-js-react-logo-js-icon.png" width="96" height="96" alt="Your Name Here (Insert Your Image Link In Src">
+		</p>
+		</td>
+    <td>
+      <b>NodeJS</b>
+		<p align="center">
+			<img src = "https://www.iconninja.com/files/737/358/547/code-nodejs-logo-development-icon.png" width="96" height="59" alt="Your Name Here (Insert Your Image Link In Src">
+		</p>
+		</td>
+		<td>
+      <b>MongoDB</b>
+		<p align="center">
+			<img src = "https://www.iconninja.com/files/707/239/680/programming-logo-mongodb-development-code-icon.png" width="96" height="27" alt="Your Name Here (Insert Your Image Link In Src">
+		</p>
+		</td>
+		<td>
+      <b>FlowXO</b>
+		<p align="center">
+			<img src = "https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/183615/Flow_XO_Logo_-_Colour.png"width="96" height="25" alt="Your Name Here (Insert Your Image Link In Src">
+		</td>
+	</tr>
+</table>
 
 
 ## Start Instructions

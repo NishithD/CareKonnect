@@ -45,7 +45,7 @@ return `
               <div>
               <img src="/home/nishith/Desktop/CareKonnect/client/src/components/patient/Auth/HealthMainz/Public" />
                 <h1>CareKonnect</h1>
-                <p>carekonnect@gmail.com</p>
+                <p>nishithdasari100@gmail.com</p>
               </div>
             </li>
             <li class="doctor">

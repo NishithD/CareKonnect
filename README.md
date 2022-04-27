@@ -31,7 +31,7 @@ It can be used by the patients/common people to-
 		</td>
 				<td>
 		<p align="center">
-			<img src = "https://i0.wp.com/iotbyhvm.ooo/wp-content/uploads/2019/01/expressjs.png?resize=800%2C445&ssl=1" width="96" height="96" alt="Your Name Here (Insert Your Image Link In Src">
+			<img src = "https://i0.wp.com/iotbyhvm.ooo/wp-content/uploads/2019/01/expressjs.png?resize=800%2C445&ssl=1" width="100" height="75" alt="Your Name Here (Insert Your Image Link In Src">
 		</p>
 		</td>
 		<td>

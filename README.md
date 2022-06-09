@@ -79,10 +79,10 @@ The main users of our application will be the hospitals who will act as admins a
 		<td>
       <b>Shonit Sahoo</b>
 		<p align="center">
-			<img src = "https://avatars.githubusercontent.com/u/91408995?v=4" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
+			<img src = "https://avatars.githubusercontent.com/u/97381143?v=4" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
 		</p>
 			<p align="center">
-				<a href = "https://github.com/Shonit1809">
+				<a href = "https://github.com/Shonit09">
 					<img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/>
 				</a>
 				<a href = "https://www.linkedin.com/in/shonit-sahoo-37a09a224/">

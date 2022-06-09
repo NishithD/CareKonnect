@@ -79,7 +79,7 @@ The main users of our application will be the hospitals who will act as admins a
 		<td>
       <b>Shonit Sahoo</b>
 		<p align="center">
-			<img src = "[https://avatars.githubusercontent.com/u/91408995?v=4](https://avatars.githubusercontent.com/u/97381143?v=4)" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
+			<img src = "https://avatars.githubusercontent.com/u/97381143?v=4" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
 		</p>
 			<p align="center">
 				<a href = "https://github.com/Shonit09">
